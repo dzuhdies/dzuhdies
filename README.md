@@ -21,7 +21,6 @@ focus:
   - AI & Machine Learning
 
 currently_learning:
-  - Advanced Laravel
   - Backend Architecture
   - Distributed Systems
   - DevOps
@@ -78,7 +77,7 @@ A web-based attendance management system with location-based validation.
 
 ---
 
-### 📰 Masimasa
+### 📰 M!
 
 A web platform focused on articles, technology, and digital content.
 
@@ -92,7 +91,7 @@ Built with a focus on a simple, fast, and maintainable web experience.
 
 A web-based collection of PDF utilities designed to make common PDF tasks easier.
 
-**Built with:** `Laravel` `PHP` `JavaScript`
+**Built with:** `Express` `React`
 
 ---
 
